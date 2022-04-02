@@ -1,4 +1,4 @@
-# Trabalho-de-Urna-eletronica
+# Trabalho-de-Urna-eletronica PORTUGOL
 
 programa
 {
